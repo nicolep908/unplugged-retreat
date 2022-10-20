@@ -286,7 +286,7 @@ address {
   /* Hero Area */
   
   .hero-area {
-    background: url(../img/jake-melara-30679-unsplash.png);
+    background: url(../img/unplugged-retreat.png);
     background-size: cover;
     background-position: center;
     min-height: 500px;
@@ -341,7 +341,7 @@ aside .form {
   /* Features */
 
   .features {
-    background: url('../img/features-back.png');
+    background: url(../img/features-back.png);
     background-size: cover;
     background-position: center;
     display: flex;
